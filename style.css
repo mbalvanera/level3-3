@@ -1,0 +1,22 @@
+p {
+    float: left;
+    background-color: azure;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.one {
+    
+    position: absolute;
+    z-index: 0;
+    opacity: 0.7;
+}
+
+.two {
+    position: relative;
+}
+
+.three {
+    float: left;
+    display: grid;
+}
